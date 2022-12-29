@@ -1,0 +1,25 @@
+body {
+    background-color: #333232;
+}
+
+#container {
+   background-color: #0f2431;
+   border: 5px solid #f5e4c3;
+   height: 275px;
+   width: 750px;
+   margin: auto;
+   text-align: center;
+}
+
+p, #counter {
+   color: white;
+}
+
+#input {
+   width: 100px;
+   margin: 25px auto;
+}
+
+#btn {
+   margin: 25px auto auto 5px;
+}
